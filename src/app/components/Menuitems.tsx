@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import ProductCard from "./ProductCard";
-import { Product } from "@/pages/types";
+import { Product } from "@/types/types";
 import Image from 'next/image'
 
 const Menu = () => {
